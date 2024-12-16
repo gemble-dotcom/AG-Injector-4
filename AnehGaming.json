@@ -1,0 +1,740 @@
+[
+  {
+    "her": "Aamon",
+    "roll": "Assassin",
+    "URL": "https://i.ibb.co/G7vVfst/Screenshot-20220530-215530070-6.jpg"
+  },
+  {
+    "her": "Akai",
+    "roll": "Tank",
+    "skin": "6",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Akai.png/revision/latest?cb\u003d20180820100417"
+  },
+  {
+    "her": "Aldous",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Aldous.png/revision/latest?cb\u003d20200822085215"
+  },
+  {
+    "her": "Alice",
+    "roll": "Mage",
+    "skin": "4",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Alice.png/revision/latest?cb\u003d20211231100041"
+  },
+  {
+    "her": "Alpha",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Alpha.png/revision/latest?cb\u003d20210528145655"
+  },
+  {
+    "her": "Alucard",
+    "roll": "Fighter",
+    "skin": "9",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard.png/revision/latest?cb\u003d20200718063828"
+  },
+  {
+    "her": "Angela",
+    "roll": "Support",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Angela.png/revision/latest?cb\u003d20211231100018"
+  },
+  {
+    "her": "Argus",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Argus.png/revision/latest?cb\u003d20210530140557"
+  },
+  {
+    "her": "Arlott",
+    "roll": "Assassin",
+    "skin": "2",
+    "URL": "https://i.postimg.cc/yNLxb72B/Screenshot-20230311-194459208-1.jpg"
+  },
+  {
+    "her": "Atlas",
+    "roll": "Tank",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Atlas.png/revision/latest?cb\u003d20200320123147"
+  },
+  {
+    "her": "Aulus",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Aulus.png/revision/latest?cb\u003d20210625130520"
+  },
+  {
+    "her": "Aurora",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Aurora.png/revision/latest?cb\u003d20211231095916"
+  },
+  {
+    "her": "Badang",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Badang.png/revision/latest?cb\u003d20190615171554"
+  },
+  {
+    "her": "Balerick",
+    "roll": "Tank",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Belerick.png/revision/latest?cb\u003d20191129092353"
+  },
+  {
+    "her": "Balmond",
+    "roll": "Fighter",
+    "skin": "5",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Balmond.png/revision/latest?cb\u003d20181223130442"
+  },
+  {
+    "her": "Bane",
+    "roll": "Fighter",
+    "skin": "3",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Bane.png/revision/latest?cb\u003d20210530140544"
+  },
+  {
+    "her": "Barats",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Barats.png/revision/latest?cb\u003d20200724022218"
+  },
+  {
+    "her": "Baxia",
+    "roll": "Tank",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Baxia.png/revision/latest?cb\u003d20211231095946"
+  },
+  {
+    "her": "Beatrix",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Beatrix.png/revision/latest?cb\u003d20211211124448"
+  },
+  {
+    "her": "Benedetta",
+    "roll": "Assassin",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Benedetta.png/revision/latest?cb\u003d20200724022147"
+  },
+  {
+    "her": "Brody",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Brody.png/revision/latest?cb\u003d20200918111615"
+  },
+  {
+    "her": "Bruno",
+    "roll": "Marksman",
+    "skin": "5",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Bruno.png/revision/latest?cb\u003d20180820103530"
+  },
+  {
+    "her": "Carmilla",
+    "roll": "Support",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Carmilla.png/revision/latest?cb\u003d20200414144412"
+  },
+  {
+    "her": "Cecilion",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Cecilion.png/revision/latest?cb\u003d20200414144131"
+  },
+  {
+    "her": "Chang\u0027e",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Chang%27e.png/revision/latest?cb\u003d20200413110204"
+  },
+  {
+    "her": "Chip",
+    "roll": "Tank",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero1241-portrait.png/revision/latest?cb\u003d20240321084340"
+  },
+  {
+    "her": "Chou",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Chou.png/revision/latest?cb\u003d20190325172431"
+  },
+  {
+    "her": "Cici",
+    "roll": "Fighter",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1231-portrait.png/revision/latest?cb\u003d20240120070411"
+  },
+  {
+    "her": "Claude",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Claude.png/revision/latest?cb\u003d20190615171431"
+  },
+  {
+    "her": "Clint",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Clint.png/revision/latest?cb\u003d20210619120820"
+  },
+  {
+    "her": "Cyclops",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Cyclops.png/revision/latest?cb\u003d20180820103038"
+  },
+  {
+    "her": "Diggie",
+    "roll": "Support",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Diggie.png/revision/latest?cb\u003d20180820104134"
+  },
+  {
+    "her": "Dyrroth",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Dyrroth.png/revision/latest?cb\u003d20190625172600"
+  },
+  {
+    "her": "Edith",
+    "roll": "Tank",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Edith.png/revision/latest?cb\u003d20211217004447"
+  },
+  {
+    "her": "Esmeralda",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Esmeralda.png/revision/latest?cb\u003d20211231100034"
+  },
+  {
+    "her": "Estes",
+    "roll": "Support",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Estes.png/revision/latest?cb\u003d20211231100000"
+  },
+  {
+    "her": "Eudora",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Eudora.png/revision/latest?cb\u003d20211231100025"
+  },
+  {
+    "her": "Fanny",
+    "roll": "Assassin",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Fanny.png/revision/latest?cb\u003d20211231100009"
+  },
+  {
+    "her": "Faramis",
+    "roll": "Support",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Faramis.png/revision/latest?cb\u003d20190104071559"
+  },
+  {
+    "her": "Floryn",
+    "roll": "Support",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Floryn.png/revision/latest?cb\u003d20211211124501"
+  },
+  {
+    "her": "Franco",
+    "roll": "Tank",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Franco.png/revision/latest?cb\u003d20211231095937"
+  },
+  {
+    "her": "Fredrin",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://i.postimg.cc/bJ8FHKH4/Screenshot-20230108-104520279-1.jpg"
+  },
+  {
+    "her": "Freya",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Freya.png/revision/latest?cb\u003d20200606110259"
+  },
+  {
+    "her": "Gatotkaca",
+    "roll": "Tank",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Gatotkaca.png/revision/latest?cb\u003d20190116114959"
+  },
+  {
+    "her": "Gloo",
+    "roll": "Tank",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Gloo.png/revision/latest?cb\u003d20210414054900"
+  },
+  {
+    "her": "Gord",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Gord.png/revision/latest?cb\u003d20180820103027"
+  },
+  {
+    "her": "Granger",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Granger.png/revision/latest?cb\u003d20200824104644"
+  },
+  {
+    "her": "Grock",
+    "roll": "Tank",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Grock.png/revision/latest?cb\u003d20190615170919"
+  },
+  {
+    "her": "Guinevere",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Guinevere.png/revision/latest?cb\u003d20190304120629"
+  },
+  {
+    "her": "Gusion",
+    "roll": "Assassin",
+    "skin": "7",
+    "URL": "https://i.postimg.cc/4xTYKLzC/Screenshot-20230311-194553039-1.jpg"
+  },
+  {
+    "her": "Hanabi",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://i.postimg.cc/PqXNyC32/Screenshot-20230311-194718043-1.jpg"
+  },
+  {
+    "her": "Hanzo",
+    "roll": "Assassin",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hanzo.png/revision/latest?cb\u003d20210920104413"
+  },
+  {
+    "her": "Harith",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Harith.png/revision/latest?cb\u003d20200824110705"
+  },
+  {
+    "her": "Harley",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Harley.png/revision/latest?cb\u003d20210919012409"
+  },
+  {
+    "her": "Hayabusa",
+    "roll": "Assassin",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hayabusa.png/revision/latest?cb\u003d20210806070323"
+  },
+  {
+    "her": "Helcurt",
+    "roll": "Assassin",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Helcurt.png/revision/latest?cb\u003d20180820102527"
+  },
+  {
+    "her": "Hilda",
+    "roll": "Tank",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hilda.png/revision/latest?cb\u003d20211121065620"
+  },
+  {
+    "her": "Hylos",
+    "roll": "Tank",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hylos.png/revision/latest?cb\u003d20180820101206"
+  },
+  {
+    "her": "Irithel",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Irithel.png/revision/latest?cb\u003d20190615170935"
+  },
+  {
+    "her": "Ixia",
+    "roll": "Marksman",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1211-portrait.png/revision/latest?cb\u003d20231010041751"
+  },
+  {
+    "her": "Jawhead",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Jawhead.png/revision/latest?cb\u003d20180820102111"
+  },
+  {
+    "her": "Johnson",
+    "roll": "Tank",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Johnson.png/revision/latest?cb\u003d20190307090515"
+  },
+  {
+    "her": "Joy",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://i.postimg.cc/L54jYmwb/Screenshot-20230311-195816890-1.jpg"
+  },
+  {
+    "her": "Julian",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://raw.githubusercontent.com/gemble-dotcom/Img/main/Julian.jpg"
+  },
+  {
+    "her": "Kadita",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Kadita.png/revision/latest?cb\u003d20181018090458"
+  },
+  {
+    "her": "Kagura",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Kagura.png/revision/latest?cb\u003d20211211124443"
+  },
+  {
+    "her": "Kaja",
+    "roll": "Support",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Kaja.png/revision/latest?cb\u003d20190615171034"
+  },
+  {
+    "her": "Karina",
+    "roll": "Assassin",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Karina.png/revision/latest?cb\u003d20211002022904"
+  },
+  {
+    "her": "Karrie",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Karrie.png/revision/latest?cb\u003d20190615171117"
+  },
+  {
+    "her": "Khaleed",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Khaleed.png/revision/latest?cb\u003d20200810043756"
+  },
+  {
+    "her": "Khufra",
+    "roll": "Tank",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Khufra.png/revision/latest?cb\u003d20190106130602"
+  },
+  {
+    "her": "Kimmy",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Kimmy.png/revision/latest?cb\u003d20190615171335"
+  },
+  {
+    "her": "Lancelot",
+    "roll": "Assassin",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Lancelot.png/revision/latest?cb\u003d20211201154456"
+  },
+  {
+    "her": "Lapu-Lapu",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Lapu-Lapu.png/revision/latest?cb\u003d20210530140607"
+  },
+  {
+    "her": "Layla",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Layla.png/revision/latest?cb\u003d20211207103002"
+  },
+  {
+    "her": "Leomord",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://i.postimg.cc/cCprBT2n/Screenshot-20230311-194657450-1.jpg"
+  },
+  {
+    "her": "Lesley",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://i.postimg.cc/9MN4rcB1/Screenshot-20230311-194738470-1.jpg"
+  },
+  {
+    "her": "Lilya",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Lylia.png/revision/latest?cb\u003d20200408115159"
+  },
+  {
+    "her": "Ling",
+    "roll": "Assassin",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Ling.png/revision/latest?cb\u003d20200613112856"
+  },
+  {
+    "her": "Lolita",
+    "roll": "Tank",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Lolita.png/revision/latest?cb\u003d20180820100939"
+  },
+  {
+    "her": "Lunox",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Twilight_Goddess.jpg/revision/latest?cb\u003d20211202051243"
+  },
+  {
+    "her": "Luo Yi",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Luo_Yi.png/revision/latest?cb\u003d20200505113319"
+  },
+  {
+    "her": "Martis",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Martis.png/revision/latest?cb\u003d20180820102126"
+  },
+  {
+    "her": "Masha",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Masha.png/revision/latest?cb\u003d20200408114154"
+  },
+  {
+    "her": "Mathilda",
+    "roll": "Support",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Mathilda.png/revision/latest?cb\u003d20210922092213"
+  },
+  {
+    "her": "Melissa",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://i.postimg.cc/sDWBgdG9/Screenshot-20230311-194723137-1.jpg"
+  },
+  {
+    "her": "Minotaur",
+    "roll": "Tank",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Minotaur.png/revision/latest?cb\u003d20210528145833"
+  },
+  {
+    "her": "Minsittar",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Minsitthar.png/revision/latest?cb\u003d20181124121459"
+  },
+  {
+    "her": "Miya",
+    "roll": "Marksman",
+    "skin": "10",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Miya.png/revision/latest?cb\u003d20200726193557"
+  },
+  {
+    "her": "Moskov",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Moskov.png/revision/latest?cb\u003d20190615171609"
+  },
+  {
+    "her": "Nana",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Nana.png/revision/latest?cb\u003d20190116120936"
+  },
+  {
+    "her": "Natalia",
+    "roll": "Assassin",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Natalia.png/revision/latest?cb\u003d20200408115417"
+  },
+  {
+    "her": "Natan",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Natan.png/revision/latest?cb\u003d20210625125537"
+  },
+  {
+    "her": "Nolan",
+    "roll": "Assassin",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest?cb\u003d20230826055051"
+  },
+  {
+    "her": "Novaria",
+    "roll": "Mage",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb\u003d20230224151429"
+  },
+  {
+    "her": "Odete",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Odette.png/revision/latest?cb\u003d20211211124423"
+  },
+  {
+    "her": "Paquito",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Paquito.png/revision/latest?cb\u003d20210701121555"
+  },
+  {
+    "her": "Parsha",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Pharsa.png/revision/latest?cb\u003d20180820103235"
+  },
+  {
+    "her": "Phoveus",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Phoveus.png/revision/latest?cb\u003d20211211124429"
+  },
+  {
+    "her": "Popol \u0026 Kupa",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Popol_and_Kupa.png/revision/latest?cb\u003d20200414144211"
+  },
+  {
+    "her": "Rafaela",
+    "roll": "Support",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Rafaela.png/revision/latest?cb\u003d20200530115458"
+  },
+  {
+    "her": "Roger",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Roger.png/revision/latest?cb\u003d20190615170753"
+  },
+  {
+    "her": "Ruby",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Ruby.png/revision/latest?cb\u003d20201009125951"
+  },
+  {
+    "her": "Saber",
+    "roll": "Assassin",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Saber.png/revision/latest?cb\u003d20201009130037"
+  },
+  {
+    "her": "Selena",
+    "roll": "Assassin",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Selena.png/revision/latest?cb\u003d20180820102721"
+  },
+  {
+    "her": "Silvana",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Silvanna.png/revision/latest?cb\u003d20200408115031"
+  },
+  {
+    "her": "Sun",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Sun.png/revision/latest?cb\u003d20211231095930"
+  },
+  {
+    "her": "Terizla",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Terizla.png/revision/latest?cb\u003d20190329164039"
+  },
+  {
+    "her": "Thamus",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Thamuz.png/revision/latest?cb\u003d20190325174153"
+  },
+  {
+    "her": "Tigreal",
+    "roll": "Tank",
+    "skin": "5",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Tigreal.png/revision/latest?cb\u003d20201009130127"
+  },
+  {
+    "her": "Uranus",
+    "roll": "Tank",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Uranus.png/revision/latest?cb\u003d20211231095908"
+  },
+  {
+    "her": "Vale",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Vale.png/revision/latest?cb\u003d20190615171250"
+  },
+  {
+    "her": "Valentina",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Valentina.png/revision/latest?cb\u003d20211211124435"
+  },
+  {
+    "her": "Valir",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Valir.png/revision/latest?cb\u003d20200402105837"
+  },
+  {
+    "her": "Vexana",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://i.postimg.cc/dQpkFt3V/Screenshot-20230311-194616111-1.jpg"
+  },
+  {
+    "her": "Wanwan",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Wanwan.png/revision/latest?cb\u003d20200408114858"
+  },
+  {
+    "her": "X-Borg",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://i.ibb.co/qd4CJqc/Screenshot-20220531-022738063-3.jpg"
+  },
+  {
+    "her": "Xavier",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://i.postimg.cc/rwCK51JD/Screenshot-20230311-194636199-1.jpg"
+  },
+  {
+    "her": "Yi Shun Shin",
+    "roll": "Marksman",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Yi_Sun-shin.png/revision/latest?cb\u003d20200606110618"
+  },
+  {
+    "her": "Yin",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Yin.png/revision/latest?cb\u003d20211231060939"
+  },
+  {
+    "her": "Yu Zhong",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Yu_Zhong.png/revision/latest?cb\u003d20200620033741"
+  },
+  {
+    "her": "Yve",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Yve.png/revision/latest?cb\u003d20210522072809"
+  },
+  {
+    "her": "Zhask",
+    "roll": "Mage",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Zhask.png/revision/latest?cb\u003d20211231095954"
+  },
+  {
+    "her": "Zilong",
+    "roll": "Fighter",
+    "skin": "7",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Zilong.png/revision/latest?cb\u003d20200718073301"
+  }
+]
